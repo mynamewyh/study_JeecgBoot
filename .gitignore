@@ -1,0 +1,22 @@
+## ide
+**/.idea
+*.iml
+rebel.xml
+
+## backend
+**/target
+**/logs
+
+## front
+**/*.lock
+os_del.cmd
+os_del_doc.cmd
+.svn
+derby.log
+.cursor
+.history
+.claude
+
+## 本地学习环境生成物(不入库)
+/jeecg-boot/config/
+/jeecgboot-vue3/.env.development.bak
